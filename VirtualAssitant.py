@@ -13,7 +13,7 @@ import requests
 print('Loading your AI personal assistant - G One')
 
 engine=pyttsx3.init('sapi5')
-voices=engine.getProperty('voices')
+voices=engine.getProperty('voicess')
 engine.setProperty('voice','voices[0].id')
 
 

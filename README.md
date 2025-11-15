@@ -14,7 +14,7 @@ This project demonstrates speech processing, automation, and API integration in 
 
 Conversational Responses: Answers questions like "Who are you?" or "Who made you?".
 
- System Commands: Supports system log off/sign-out actions via command line.
+ System Commands: Supports system log off/sign-out actions via command linee.
 
 🧩 Technologies Used
 
